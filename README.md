@@ -13,3 +13,8 @@
   + H2
 * yml 설정
 * package 구조
+* ignore 파일
+  + Java
+  + Jetbrains
+  + Maven
+  + Gradle
