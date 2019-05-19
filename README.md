@@ -6,13 +6,13 @@
 * Projcet 이름만 변경해서 사용
 
 ## 기본설정
+* package 구조
+* yml 설정
 * dependency
   + Web
   + Lombok
   + JPA
   + H2
-* yml 설정
-* package 구조
 * ignore 파일
   + Java
   + Jetbrains
