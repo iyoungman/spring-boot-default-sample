@@ -12,6 +12,7 @@
   + Lombok
   + JPA
   + H2
+  + Swagger
 * ignore 파일
   + Java
   + Jetbrains
